@@ -1,0 +1,16 @@
+{
+    "name": "SFB - EL GOMEZ",
+    "description": "En Stream Fighters, los seguidores también ganan. Apuesta por tu streamer favorito y forma parte de esta experiencia única. Los golpes son reales, las apuestas son altas y la emoción es incomparable",
+    "image": "https://tan-magnetic-giraffe-95.mypinata.cloud/ipfs/QmXw9PYuQXNyBsqTM6gD9eXxfHutZdRiMrXmK2D5rY7KWw/elgomez.webp",
+    "attributes": [
+      {
+        "trait_type": "IG",
+        "value": "@el_gomez0"
+      },
+      {
+        "trait_type": "Peso",
+        "value": "63Kg"
+      }
+    ],
+    "compiler": "Alejandro Restrepo (Stovedove)"
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "SFB - CHANTY",
+    "description": "En Stream Fighters, los seguidores también ganan. Apuesta por tu streamer favorito y forma parte de esta experiencia única. Los golpes son reales, las apuestas son altas y la emoción es incomparable",
+    "image": "https://tan-magnetic-giraffe-95.mypinata.cloud/ipfs/QmXw9PYuQXNyBsqTM6gD9eXxfHutZdRiMrXmK2D5rY7KWw/chanty.webp",
+    "attributes": [
+      {
+        "trait_type": "IG",
+        "value": "@elchantyy"
+      },
+      {
+        "trait_type": "Peso",
+        "value": "61,5Kg"
+      }
+    ],
+    "compiler": "Alejandro Restrepo (Stovedove)"
+  }
